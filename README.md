@@ -39,9 +39,9 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>Research Papers</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <h2 align="center">Upload Soon</h2>
   
   <br/><br/><br/>
 </div>
