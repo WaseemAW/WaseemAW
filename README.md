@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Rendering like Marching Cube, Screen-Space, Ray Tracing**
 
-💬 LinkedIn **[here](https://www.linkedin.com/in/muhammad-waseem-3b4b53210/)**
+💬 LinkedIn Profile **[here](https://www.linkedin.com/in/muhammad-waseem-3b4b53210/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
