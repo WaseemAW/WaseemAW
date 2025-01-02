@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Fluid Simulation using PBF**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Rendering like Marching Cube, Screen-Space, Ray Tracing**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
