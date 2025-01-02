@@ -42,7 +42,6 @@
   <h2>Research Papers</h2>
   <br>
   <h2 align="center">Upload Soon</h2>
-  
   <br/><br/><br/>
 </div>
 
